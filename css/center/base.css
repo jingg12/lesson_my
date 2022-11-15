@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wp{
+    width: 300px;
+    height: 300px;
+    /* css 调试技巧 */
+    background-color: green;
+    /* 盒子模型 */
+    /* border: 1px solid green; */
+
+}
+.box{
+    background :pink;
+    
+}
+.box.size{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
